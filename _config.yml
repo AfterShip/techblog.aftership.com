@@ -73,6 +73,6 @@ archive_generator:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  repo: github.com:AfterShip/aftership.github.io.git
-  type: github
+  repo: git@github.com:AfterShip/aftership.github.io.git
+  type: git
   branch: gh-pages

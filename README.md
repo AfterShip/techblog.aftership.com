@@ -48,6 +48,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </div>
 ```
 
-## deploy (coming soon)
+## deploy
 
-TODO: write doc about how to deploy
+``` bash
+hexo generate --deploy
+```
+this will generate all of the static files and deployt them to the `gh-pages` branch on github
+
