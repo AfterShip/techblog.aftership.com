@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://aftership.github.io/"/>
+  <link href="http://techblog.aftership.com/"/>
   <updated>2016-12-19T18:09:31.000Z</updated>
-  <id>http://aftership.github.io/</id>
+  <id>http://techblog.aftership.com/</id>
   
   <author>
     <name>Aftership Engineer</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>JavaScript 102</title>
-    <link href="http://aftership.github.io/2016/12/19/javascript-102/"/>
-    <id>http://aftership.github.io/2016/12/19/javascript-102/</id>
+    <link href="http://techblog.aftership.com/2016/12/19/javascript-102/"/>
+    <id>http://techblog.aftership.com/2016/12/19/javascript-102/</id>
     <published>2016-12-19T08:45:00.000Z</published>
     <updated>2016-12-19T18:09:31.000Z</updated>
     
@@ -140,14 +140,14 @@
     
     </summary>
     
-      <category term="JavaScript" scheme="http://aftership.github.io/categories/JavaScript/"/>
+      <category term="JavaScript" scheme="http://techblog.aftership.com/categories/JavaScript/"/>
     
     
-      <category term="JavaScript" scheme="http://aftership.github.io/tags/JavaScript/"/>
+      <category term="JavaScript" scheme="http://techblog.aftership.com/tags/JavaScript/"/>
     
-      <category term="Lodash" scheme="http://aftership.github.io/tags/Lodash/"/>
+      <category term="Lodash" scheme="http://techblog.aftership.com/tags/Lodash/"/>
     
-      <category term="Code Quality" scheme="http://aftership.github.io/tags/Code-Quality/"/>
+      <category term="Code Quality" scheme="http://techblog.aftership.com/tags/Code-Quality/"/>
     
   </entry>
   
