@@ -1,0 +1,19 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    GitHub: https://github.com/aftership
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /logo.svg
+
+# Comment
+# e.g disqus: seansun
+disqus:
+
+# Analytics
+# google-analytics:
+ga: UA-28584597-12
+
+# Copyright Infomation
+startyear: 2016
